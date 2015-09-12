@@ -8,6 +8,7 @@ Usage
 
 AddIcon is used in the Apache configuration to associate an icon to a
 file extension.
+
 ----
 AddIcon /icons/debian.png .deb
 AddIcon /icons/signature.png .gpg
